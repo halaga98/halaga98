@@ -5,9 +5,7 @@
 My name is **[Hüseyin Kıldacı](https://www.linkedin.com/in/huseyin-kildaci-393014196/)**. I study Computer Engineering at Doğuş University in Turkey. 
 
 ## ⚡ Technolgies & Tools
-![HTML5](https://img.icons8.com/color/30/html-5.png)
-![CSS3](https://img.icons8.com/color/30/css3.png)
-![JavaScript](https://img.icons8.com/color/30/javascript.png)
+![Flutter](https://img.icons8.com/color/30/flutter.png)
 ![C#](https://img.icons8.com/color/30/c-sharp-logo.png)
 ![Git](https://img.icons8.com/ios-filled/30/git.png)
 ![VSCode](https://img.icons8.com/color/30/visual-studio-code-2019.png)
