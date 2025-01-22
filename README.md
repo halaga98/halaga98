@@ -2,7 +2,7 @@
 
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/huseyin-kildaci-393014196/)
 
-My name is **[Hüseyin Kıldacı](https://www.linkedin.com/in/huseyin-kildaci/)**. I study Computer Engineering at Doğuş University in Turkey. 
+My name is **[Hüseyin Kıldacı](https://www.linkedin.com/in/huseyin-kildaci/)**.
 
 ## ⚡ Technolgies & Tools
 ![Flutter](https://img.icons8.com/color/30/flutter.png)
