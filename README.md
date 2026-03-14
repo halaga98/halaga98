@@ -1,134 +1,95 @@
-# 👋 Hi, I'm Hüseyin Kıldacı
+# Hi, I'm Hüseyin Kıldacı 👋
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+Backend-focused Software Engineer building scalable applications with **C#**, **.NET**, and **Flutter**.
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%23A020F0&size=24&center=true&vCenter=true&width=600&lines=.NET+Backend+Developer;Distributed+Systems+Enthusiast;Building+Scalable+Backend+Services;Data+Processing+%26+System+Performance;Always+Learning+New+Things" />
-</p>
+I enjoy developing reliable backend systems, designing real-time features, and turning product ideas into working applications.
 
 ---
 
-# 🧠 About Me
+## About Me
 
-Backend Developer with experience building **high-performance and scalable systems** using .NET technologies.
-
-🔹 Experienced in **.NET / C# backend development**  
-🔹 Working with **high-volume data processing pipelines**  
-🔹 Building **microservice architectures and distributed systems**  
-🔹 Focused on **performance optimization and observability**
-
-Currently working on systems that involve:
-
-- High scale **data synchronization**
-- **Mobile backend services**
-- **Monitoring & logging infrastructure**
-- **Push notification systems**
-- **Distributed data processing**
+- 💼 Backend Engineer focused on **.NET**, **REST APIs**, and **distributed application architectures**
+- 🔄 Experienced in **real-time communication**, **background jobs**, and **event-driven systems**
+- 🧪 Writing unit tests with **xUnit** and **Moq**
+- 📱 Also experienced in **Flutter** for cross-platform mobile development
+- 🚀 Interested in building scalable, maintainable, and production-ready systems
 
 ---
 
-# ⚡ Tech Stack & Tools
+## Tech Stack
 
 ### Backend
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/EF_Core-6DB33F?style=for-the-badge&logo=.net&logoColor=white)
+![Dapper](https://img.shields.io/badge/Dapper-0A0A0A?style=for-the-badge&logoColor=white)
+![MediatR](https://img.shields.io/badge/MediatR-CQRS-blue?style=for-the-badge)
 
-.NET / C#  
-ASP.NET Core  
-CQRS Architecture  
-REST APIs
+### Databases & Messaging
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D92C2C?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=white)
 
-### Databases
+### Real-Time, Monitoring & Tools
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-333333?style=for-the-badge)
+![Hangfire](https://img.shields.io/badge/Hangfire-1E1E1E?style=for-the-badge)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-MSSQL  
-MongoDB  
-Redis  
-Elasticsearch  
-BigQuery
-
-### Infrastructure
-
-Docker  
-NGINX  
-RabbitMQ
-
-### Monitoring & Observability
-
-Grafana  
-Kibana  
-Centralized Logging
-
-### Development Tools
-
-Git  
-Visual Studio  
-VS Code  
-Windows / Linux
+### Mobile & Frontend
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ---
 
-# 🚀 Featured Projects
+## Featured Projects
 
-### 📦 Mobile Backend Platform
+### MTR Library Platform
+A digital learning platform built to support MTR exam candidates with practical and accessible study tools.
 
-Backend services powering mobile retail applications.
+**Tech Stack:** React.js, .NET Web API, SQL Server, Docker, Redis, RabbitMQ
 
-Technologies:
+### Real-Time Workplace Application
+Worked on collaboration-focused application modules including real-time chat, task management, calendar, and file-sharing features.
 
-- .NET / ASP.NET Core
-- MSSQL & MongoDB
-- Redis caching
-- Elasticsearch search infrastructure
-- Distributed notification system
+**Tech Stack:** C#, .NET Framework, Flutter, WebSocket
 
----
+### Flutter Mobile Applications
+Built mobile applications with API integration, Firebase services, and user-focused mobile experiences.
 
-### 📊 Data Synchronization Pipeline
-
-High-volume data synchronization system between different databases.
-
-Features:
-
-- Bulk data transfer
-- Stream-based processing
-- Performance optimized data migration
-
-Technologies:
-
-- .NET
-- MSSQL
-- BigQuery
-- Parallel data processing
+**Tech Stack:** Flutter, Firebase, REST APIs
 
 ---
 
-### 📡 Centralized Logging & Monitoring
+## Technical Interests
 
-Monitoring infrastructure for distributed systems.
-
-Features:
-
-- Centralized logging
-- Real-time alerting
-- System observability dashboards
-
-Technologies:
-
-- Kibana
-- Grafana
-- Structured logging
+- Backend architecture and scalable service design
+- Real-time systems and event-driven communication
+- Telemetry processing and binary data transformation
+- UAV software systems and real-time image/data transmission
 
 ---
 
-# 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=halaga98&show_icons=true&theme=midnight-purple&hide_border=true" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halaga98&layout=compact&theme=midnight-purple&hide_border=true" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=halaga98&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=halaga98&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=halaga98&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# ⚙️ GitHub Streak
+## Connect With Me
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=halaga98&theme=tokyonight&hide_border=true"/>
-</p>
+- LinkedIn: [linkedin.com/in/huseyin-kildaci](https://linkedin.com/in/huseyin-kildaci)
+- GitHub: [github.com/halaga98](https://github.com/halaga98)
+- Email: husokildaci99@gmail.com
